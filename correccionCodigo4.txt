@@ -1,0 +1,11 @@
+
+
+
+//Se utilizó únicamente un scanner para obtener ambas respuestas.
+//Se modificó == por .equals, ya que == no funciona con Strings
+
+Feedback:
+
+Falta hablar un poco más sobre cómo se identifican los errores y las ideas para modificarlos. 
+Se consiguió hacer el código funcionar.
+Orientación al detalle. 
